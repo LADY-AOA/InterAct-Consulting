@@ -1,0 +1,22 @@
+[
+  "test_cases.py::test_verify_if_search_functionality_is_case_sensitive_for_keywords",
+  "test_cases.py::test_verify_if_search_functionality_is_case_sensitive_for_location",
+  "test_cases.py::test_verify_search_functionality_behavior_when_invalid_keywords_are_provided",
+  "test_cases.py::test_verify_search_functionality_behavior_when_invalid_loaction_are_provided",
+  "test_cases.py::test_verify_search_functionality_behavior_when_no_input_is_provided",
+  "test_cases.py::test_verify_search_functionality_correctly_handles_leading_and_trailing_spaces_in_the_input_fields",
+  "test_cases.py::test_verify_search_functionality_correctly_handles_multiple_words_in_the_keywords_fields",
+  "test_cases.py::test_verify_search_functionality_handles_long_input_strings_in_the_keywords_field",
+  "test_cases.py::test_verify_search_functionality_handles_long_input_strings_in_the_location_field",
+  "test_cases.py::test_verify_search_functionality_handles_multiple_keywords_input",
+  "test_cases.py::test_verify_search_functionality_handles_numeric_inputs_in_the_keywords_field",
+  "test_cases.py::test_verify_search_functionality_handles_numeric_inputs_in_the_location_field",
+  "test_cases.py::test_verify_search_functionality_handles_special_characters_in_the_keywords_field",
+  "test_cases.py::test_verify_search_functionality_handles_special_characters_in_the_location_field",
+  "test_cases.py::test_verify_search_functionality_persists_when_using_browser_back_and_forward_buttons",
+  "test_cases.py::test_verify_search_functionality_resilience_against_SQL_injection_attacks_in_the_keywords_field",
+  "test_cases.py::test_verify_search_functionality_resilience_against_XSS_attacks_in_the_keywords_field",
+  "test_cases.py::test_verify_search_functionality_returns_relevant_keywords_when_valid_keywords_are_produced",
+  "test_cases.py::test_verify_search_functionality_returns_relevant_results_when_valid_location_are_produced",
+  "test_cases.py::test_verify_search_functionality_when_keywords_and_location_fields_are_empty"
+]
